@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MiniMall</string>
+    <string name="button">More</string>
+    <string name="market">Market</string>
+    <string name="trading">Trading</string>
+    <string name="offers">Offers</string>
+    <string name="shopping">Shopping</string>
+    <string name="rest">Restaurants</string>
+    <string name="clinics">Clinics</string>
+    <string name="switch_color">Switch to Light or Dark color</string>
+
+    <string-array name="themes">
+        <item>Theme1</item>
+        <item>Theme2</item>
+    </string-array>
+
+    <string name="OK">OK</string>
+    <string name="def_theme">Theme1</string>
+    <string name="theme_summary">Appearance</string>
+    <string name="theme_dialog_title">Theme</string>
+    <string name="settings">Settings</string>
+
+
+
+
+</resources>

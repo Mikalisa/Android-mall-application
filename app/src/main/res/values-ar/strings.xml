@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ميني مول</string>
+    <string name="button">المزيد</string>
+    <string name="trading">جملة</string>
+    <string name="market">السوق</string>
+    <string name="clinics">أطباء</string>
+    <string name="offers">العروض</string>
+    <string name="shopping">التسوق</string>
+    <string name="rest">المطاعم</string>
+</resources>
